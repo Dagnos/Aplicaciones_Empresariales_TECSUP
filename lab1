@@ -1,0 +1,24 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+4C15A - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 01 
+-----------------------------------------------------------------------------------------------
+
+1.- Instalalacion Composer
+	-> 1.png
+2.- Creando un proyecto con la Estructura Laravel
+	-> 2.png
+3. Proyecto creado
+	-> 3.png
+
+-----------------------------------------------------------------------------------------------
+Observaciones:
+- Tuve que trabajar con Ubuntu para lograr instalar todo porque no se puede cambiar la version del php en MacOS.
+- Al trabajar con Ubuntu nuestro servidor sería LAMP.
+- En este caso no será útil la instalación de Sublime Text, usaremos Atom que es más intuitivo.
+-----------------------------------------------------------------------------------------------
+Conclusiones:
+- Laravel es un framework de código abierto para desarrollar aplicaciones en PHP 5-7, en nuestro caso utilizaremos la versión 5 ya que tiene ciertas características que nos serán útiles.
+- Composer es un manejador de dependencias, no es un gestor de paquetes.
+- Los gestores de paquetes nos ayudan a resumir tareas de descarga y mantenimiento de las versiones del proyecto para que esten siempre actualizadas.
