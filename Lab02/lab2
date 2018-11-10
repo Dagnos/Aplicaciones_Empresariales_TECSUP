@@ -1,0 +1,25 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+4C15A - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 02 
+-----------------------------------------------------------------------------------------------
+
+1.- Inicio de Apache mediante la configuración de dominio.
+	-> 1.png
+2.- Modificación para poder recibir dos variables mas.
+	-> 2.png
+3.- Definicion de TRAIT.
+	-> 3.png
+
+-----------------------------------------------------------------------------------------------
+Observaciones:
+- Se tuvo que reinstalar todo otra vez que ya que teníamos un error al abrir GestorImagenes/public
+- Cuando comenzamos a trabajar con el lab 03 al volver a ejecutar nos salía otra vez errores.
+- Los servidores de Apache2 no corrian y tuvimos que desintalar todo de vuelta para volver a intentar.
+- Para poder hacer uso de trait en este laboratorio se tuvo que ir a una ruta específica ya que usamos atom.
+-----------------------------------------------------------------------------------------------
+Conclusiones:
+- TRAIT es una manera de poder reutilizar código y así poder hacer uso de el.
+- para crear un TRAIT lo hacemos como si hiciéramos una clase en PHP.
+- En la resolución de este laboratorio pues solo realizamos cambios de lenguaje sin agregar ninguna funcionalidad.
