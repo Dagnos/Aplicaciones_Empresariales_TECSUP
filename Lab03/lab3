@@ -1,0 +1,33 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+4C15A - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 03
+-----------------------------------------------------------------------------------------------
+
+1.- Probando el link gestorlaravel.com
+	-> 1.png
+2.- Probando validado sin vista.
+	-> 2.png
+3.- Suposición de un usuario registrado sin vista.
+	-> 3.png
+4.- Controlando error 404 con vista.
+	-> 4.png
+5.- Probando la primera vista gestorlaravel.com
+	-> 5.png
+6.- Vista de inicio.
+	-> 6.png
+7.- Vista de recuperar cuenta.
+	-> 7.png
+
+-----------------------------------------------------------------------------------------------
+Observaciones:
+- Se hizo cambio de sistema operativo ya que no pudimos con los errores anteriores.
+- En este caso trabajamos con SublimeText3 para evitar errores que se vieron en Atom.
+- Cuando modificamos el return para que se pueda observar las vistas su sintaxis era -- view('vista');-- ya no iba en comillas dobles.
+- Utilizamos código que ya estaba por defecto, solo modificamos a nuestro gusto.
+-----------------------------------------------------------------------------------------------
+Conclusiones:
+- Las vistas ya están generadas por defecto solo la adecuamos para el código que nosotros tenemos.
+- Laravel por defecto nos mandaba a una vista de error en la cual detallaba el error valga la rebundancia.
+- Las vistas están generadas en código html en idioma Inglés.
