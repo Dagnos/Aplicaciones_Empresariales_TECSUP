@@ -1,1 +1,0 @@
-# Aplicaciones_Empresariales_TECSUP
