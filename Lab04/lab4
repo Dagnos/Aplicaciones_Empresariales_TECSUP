@@ -7,13 +7,33 @@ Laboratorio 03
 
 1.- Creando la estructura de la tabla fotos.
 	-> 1.png
-2.- Creando la estructura de la tabla albumes.
+2.- Creando la estructura de la tabla álbumes.
 	-> 2.png
 3.- Se generaron los datos en la base de datos (respondiendo a la pregunta de abajo).
 	-> 3.png
+4.- Se simula un error con inspeccionar elemento.
+	-> 4.png
+5.- Error de inicio de sesión.
+	-> 5.png
+6.- Inicio de sesiono con credenciales test1@gmail.com con contraseña pass1.
+	-> 6.png
+7.- Modificación para mostrar el nombre del usuario.
+	-> 7.png
+8.- Registro exitoso (Verificando en la base de datos).
+	-> 8.png
+9.- Probando con preguntas y/o respuestas erróneas (comprobando mensaje de error).
+	-> 9.png
+10.- Contraseña recuperada exitosamente (mensaje).
+	-> 10.png
 
------------------------------------------------------------------------------------------------
-Observaciones:
+Adicional:
+	Pregunta 1:
+	¿Cuál sería el proceso de crear un Request de nombre "RecuperarContraseñaRequest"?
+	El procedimiento sería entra a la consola y hacer uso de artisan para crear el archivo en la carpeta indicada.
+	Pregunta 2:
+	Pregunta y/o respuestas erróneas. ¿Qué sucede?
+	El error generado esta controlado por un mensaje que sale en rojo.
+	Pregunta 3:
+	Ingrese datos correctos. ¿Qué es lo que sucede?
+	Al ingresar los datos correctos nos manda a la ventana de bienvenida con el nombre de usuario que hemos hecho el cambio de contraseña.
 
------------------------------------------------------------------------------------------------
-Conclusiones:
