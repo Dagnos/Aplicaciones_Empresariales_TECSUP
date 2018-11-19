@@ -1,0 +1,27 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+4C15A - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 07
+-----------------------------------------------------------------------------------------------
+
+1.- Actualizando los datos de un álbum.
+	-> 1.png
+2.- Mensaje de que el álbum ha sido actualizado.
+	-> 2.png
+
+
+Adicional:
+	Pregunta 1:
+	¿Qué hicimos al agregar esta línea?
+	Le damos una acción al botón que estamos agregando con el "href".
+	Pregunta 2:
+	¿Qué hace authorize()?
+	Si es que todo coincide el id del album y el de usuarios entra a ese if y recién valida los datos, si no, es false.
+	Pregunta 3:
+	¿Qué se hizo en el código mostrado?
+	Primero obtiene el id de Album nombre y descripción luego redirecciona ...
+	Pregunta 4:
+	¿Qué se hizo en la función?
+	recibimos la URL del parámetro $id, que viene a ser el id de foto que deseamos actualizar. Luego abrimos la vista actualizar-foto pero con el parámetro de la foto.
+
