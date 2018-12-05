@@ -1,6 +1,6 @@
 Alumno: Fernando José Huarcaya Torres. 
 
-4C15A - Diseño de Software e Integración de Sistemas.
+4C15B - Diseño de Software e Integración de Sistemas.
 -----------------------------------------------------------------------------------------------
 Laboratorio 02 
 -----------------------------------------------------------------------------------------------
@@ -9,14 +9,14 @@ Laboratorio 02
 	-> 1.png
 2.- Modificación para poder recibir dos variables mas.
 	-> 2.png
-3.- Definicion de TRAIT.
+3.- Definición de TRAIT.
 	-> 3.png
 
 -----------------------------------------------------------------------------------------------
 Observaciones:
 - Se tuvo que reinstalar todo otra vez que ya que teníamos un error al abrir GestorImagenes/public
 - Cuando comenzamos a trabajar con el lab 03 al volver a ejecutar nos salía otra vez errores.
-- Los servidores de Apache2 no corrian y tuvimos que desintalar todo de vuelta para volver a intentar.
+- Los servidores de Apache2 no corrían y tuvimos que desinstalar todo de vuelta para volver a intentar.
 - Para poder hacer uso de trait en este laboratorio se tuvo que ir a una ruta específica ya que usamos atom.
 -----------------------------------------------------------------------------------------------
 Conclusiones:

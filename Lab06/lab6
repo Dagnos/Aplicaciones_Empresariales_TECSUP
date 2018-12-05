@@ -1,6 +1,6 @@
 Alumno: Fernando José Huarcaya Torres. 
 
-4C15A - Diseño de Software e Integración de Sistemas.
+4C15B - Diseño de Software e Integración de Sistemas.
 -----------------------------------------------------------------------------------------------
 Laboratorio 06
 -----------------------------------------------------------------------------------------------
@@ -12,4 +12,10 @@ Laboratorio 06
 3.- Mostrando imagen que creamos dentro de un álbum.
 	-> 3.png
 
-
+Observaciones y Conclusiones.
+No tenemos que olvidarnos de referencias en las cabeceras de los documentos para evitar errores posteriores.
+En este caso no fue necesario realizar el paso adicional ya que no tuvimos inconvenientes.
+En la vista de crear foto tener en cuenta tipo (type) ya que si nos equivocamos ejemplo... en el que almacena la imagen pondríamos text pues no tendría la misma función que file que es que necesitamos usar.
+Es muy necesario tener un request en cada controlador para poder administrar los datos que recibimos.
+Usamos la librería Carbon para que nos de el momento actual en el que se realiza la operación.
+guessExtension la utilizamos para que nos devuelva el archivo de origen de lo que referenciamos.

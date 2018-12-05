@@ -1,0 +1,31 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+4C15B - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 08
+-----------------------------------------------------------------------------------------------
+
+1.- Muestra el mensaje de eliminar álbum (álbum eliminado).
+	-> 1.png
+2.- Vista de mostrar foto (se ve el botón agregado).
+	-> 2.png
+3.- Observamos que la foto fue eliminada y se muestra el mensaje. 
+	-> 3.png
+
+
+Adicional:
+	Pregunta 1:
+	¿Será necesario usar un método getEliminarAlbum?
+	Pues no es necesario ya que el método get obtiene la información pero como ya la tenemos en un lugar no será necesario, solo un método post.
+	Pregunta 2:
+	¿Qué hacen las dos funciones importantes en este request?
+	En la primera función tomamos el id de Albumes y es pasada a foto. Luego en la otra función solo nos indica que es necesario en este caso es el id de fotos.
+	Pregunta 3:
+	unlink nos sirve para borrar un fichero, los parámetros que recibe son la ruta del fichero y los valores que devuelven es TRUE en caso de éxito y FALSE en caso de error.
+	file_exists es el encargado de comprobar si existe un fichero o directorio también recibe como parámetro la ruta del archivo o del fichero, devuelve TRUE si la ruta o ficho buscado si existe y FALSE si no.
+	realpath es el encargado de devolver el nombre de la ruta absoluta canonizado
+	
+Conclusiones y Observaciones.
+Tenemos que tener previos conocimientos de anteriores laboratorios ya que utilizamos el atrasan para la creación de los request.
+Es importante revisar siempre revisar las referencias ya que si no referenciamos en algún archivo pues este no reconoce ciertos parámetros.
+Este laboratorio viene a ser el laboratorio 09 según documentación ya que el 08 se repite con el 07.

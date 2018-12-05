@@ -1,0 +1,25 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+4C15B - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 09
+-----------------------------------------------------------------------------------------------
+
+1.- Vista de los álbumes de nuestro usuario con la modificación de que se ve en 3 columnas.
+	-> 1.png
+2.- Vista de las fotos de nuestro usuario con la modificación de que se ve en 4 columnas.
+	-> 2.png
+3.- Utilizamos el comando proporcionado en el laboratorio y este nos sirve para re-alimentar la base de datos y así probar el funcionamiento correcto del sistema.
+	-> 3.png
+
+Adicional:
+	Pregunta 1:
+	Anote los detalles más resultantes del código anterior.
+	Pues utilizamos los métodos de otros laboratorios como el file_exists, mas que todo estamos utilizando para la búsqueda de una ruta para poder eliminar los datos.
+	
+
+Conclusiones y Observaciones.
+Este laboratorio se hizo con la finalidad de mejorar el proyecto en la parte visual y de uso del sistema.
+Utilizamos Artisan para poder re-alimentar la base de datos, en nuestro caso no salió ningún error.
+Al revisar nuestra base de datos nos percatamos de que nuestros usuarios creados anteriormente fueron eliminados y que las modificaciones a los usuarios que teníamos se restablecieron.
+Al ingresar con una cuenta también nos percatamos que los datos fueron actualizados a 0.

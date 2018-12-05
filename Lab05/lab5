@@ -1,6 +1,6 @@
 Alumno: Fernando José Huarcaya Torres. 
 
-4C15A - Diseño de Software e Integración de Sistemas.
+4C15B - Diseño de Software e Integración de Sistemas.
 -----------------------------------------------------------------------------------------------
 Laboratorio 05
 -----------------------------------------------------------------------------------------------
@@ -16,3 +16,8 @@ Laboratorio 05
 5.- Realizando el cambio que nos pide el laboratorio (forbidden).
 	-> 5.png
 
+Observaciones y conclusiones.
+Para que un mensaje salga de color verde o rojose debe de modificar el valor de class con alert-danger (rojo) o alert-sucess (verde).
+Request se puede obtener en todo los ámbitos a través de un Script.
+Request es una variable global, esto quiere decir que es una variable que esta disponible en cualquier parte del script.
+En la última parte de este laboratorio nos manda a realizar como un paso no adecuado, y es por eso que nos manda a la ventana de forbidden (prohibido), eso también puede pasar cuando pones la ruta manualmente con un valor erróneo.

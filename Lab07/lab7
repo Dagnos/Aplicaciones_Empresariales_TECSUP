@@ -1,6 +1,6 @@
 Alumno: Fernando José Huarcaya Torres. 
 
-4C15A - Diseño de Software e Integración de Sistemas.
+4C15B - Diseño de Software e Integración de Sistemas.
 -----------------------------------------------------------------------------------------------
 Laboratorio 07
 -----------------------------------------------------------------------------------------------
@@ -9,7 +9,9 @@ Laboratorio 07
 	-> 1.png
 2.- Mensaje de que el álbum ha sido actualizado.
 	-> 2.png
-
+3.- Esta es la vista de actualizar foto de 
+	-> 3.png
+4.- El mensaje muestra que la foto fue actualizada con éxito.
 
 Adicional:
 	Pregunta 1:
@@ -17,11 +19,18 @@ Adicional:
 	Le damos una acción al botón que estamos agregando con el "href".
 	Pregunta 2:
 	¿Qué hace authorize()?
-	Si es que todo coincide el id del album y el de usuarios entra a ese if y recién valida los datos, si no, es false.
+	Primero obtiene el objeto de tipo de usuario que esta logrado, luego crea la variable $id para guardar el valor del id que tenemos de este request, seguidamente crea la variable álbum que será obtenida de los álbumes que este usuario tenga... luego pasamos como parámetro el id. Luego si esto es correcto entra al if y retorna true y si no, false.
 	Pregunta 3:
 	¿Qué se hizo en el código mostrado?
 	Primero obtiene el id de Album nombre y descripción luego redirecciona ...
 	Pregunta 4:
 	¿Qué se hizo en la función?
 	recibimos la URL del parámetro $id, que viene a ser el id de foto que deseamos actualizar. Luego abrimos la vista actualizar-foto pero con el parámetro de la foto.
+
+
+Conclusiones y Observaciones.
+Casi al final encontramos un error con el id pero el error era de que el id tiene que estar entre comillas porque lo que desea hacer es obtener el id.
+El request en sí es un array asociativo que por defecto contiene a get, post y cookie, siendo los dos primeros los que nos interesan en la resolución de este laboratorio.
+En la función rules de los Request creados es donde asignamos las condiciones para los parámetros que este recibirá.
+Utilizamos nuevos parámetros como file_exists o unlink, estos mencionados son los que manejan los archivos ya se para borrar o encontrar la ruta especificada.
 

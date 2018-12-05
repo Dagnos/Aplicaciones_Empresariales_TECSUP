@@ -1,6 +1,6 @@
 Alumno: Fernando José Huarcaya Torres. 
 
-4C15A - Diseño de Software e Integración de Sistemas.
+4C15B - Diseño de Software e Integración de Sistemas.
 -----------------------------------------------------------------------------------------------
 Laboratorio 03
 -----------------------------------------------------------------------------------------------
@@ -29,5 +29,5 @@ Observaciones:
 -----------------------------------------------------------------------------------------------
 Conclusiones:
 - Las vistas ya están generadas por defecto solo la adecuamos para el código que nosotros tenemos.
-- Laravel por defecto nos mandaba a una vista de error en la cual detallaba el error valga la rebundancia.
+- Laravel por defecto nos mandaba a una vista de error en la cual detallaba el error valga la redundancia.
 - Las vistas están generadas en código html en idioma Inglés.
